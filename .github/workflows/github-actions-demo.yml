@@ -26,4 +26,4 @@ jobs:
       with:
         context: .
         push: true
-        tags: yourdockerhubusername/iris-api:latest
+        tags: tmural1/iris-api:latest
